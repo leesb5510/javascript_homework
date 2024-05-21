@@ -10,3 +10,14 @@
   margin: 5px 5px 5px 5px;
   color: white;
 }
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 10px;
+}
+
+.clicked {
+  background-color: red;
+}
